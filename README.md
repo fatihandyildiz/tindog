@@ -1,4 +1,5 @@
 # tindog
 
-Dating site for dogs:
+Dating app for dogs:
+
 https://fatihandyildiz.github.io/tindog/
